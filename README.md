@@ -22,6 +22,3 @@ Seja bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento e tecnol
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrancaCODEX&show_icons=true&theme=radical)
