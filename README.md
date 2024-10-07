@@ -24,4 +24,4 @@ Seja bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento e tecnol
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrancaCODEX&show_icons=true&theme=radical)
